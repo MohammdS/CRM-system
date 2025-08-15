@@ -1,6 +1,6 @@
 # Customer Management System
 
-A simple **Customer Management System** built with **Spring Boot**, **Spring Data JPA**, and **MySQL**. This project provides a **REST API** to manage customer data.
+A **Customer Management System** back end built with **Spring Boot**, **Spring Data JPA**, and **MySQL**. This project provides a **REST API** to manage customer data.
 
 ## Features
 
@@ -8,8 +8,7 @@ A simple **Customer Management System** built with **Spring Boot**, **Spring Dat
 - Retrieve all customers, sorted by name.
 - Update customer details.
 - Delete customers individually or delete all at once.
-- Email validation to prevent invalid entries.
-- Proper HTTP responses using `ResponseEntity`.
+- Email validation.
 
 ## Tech Stack
 
